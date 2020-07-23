@@ -1,0 +1,10 @@
+{
+	"name": "gatsby-plugin-sematext-experience",
+	"version": "1.0.0",
+	"description": "sematext",
+	"scripts": {
+	  "test": "echo \"these are not the tests you're looking for\" && exit 1"
+	},
+	"author": "bitttttten",
+	"license": "ISC"
+  }
