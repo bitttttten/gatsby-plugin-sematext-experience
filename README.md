@@ -18,7 +18,7 @@ A plugin to add and configure the Sematext Experience for your Gatsby app.
 
 Ensure you've checked "Website uses Single Page Architecture" when creating your Experience App:
 
-<img alt="Website uses Single Page Architecture checkbox example" src=".https://cdn.jsdelivr.net/gh/bitttttten/gatsby-plugin-sematext-experience@1.0.0/docs/v-important.png" />
+<img alt="Website uses Single Page Architecture checkbox example" src="https://cdn.jsdelivr.net/gh/bitttttten/gatsby-plugin-sematext-experience@1.0.0/docs/v-important.png" />
 
 ### Grab your token
 
