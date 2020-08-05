@@ -11,9 +11,9 @@ export const generateScript = token => `
 export const onRenderBody = ({ setHeadComponents }, pluginOptions) => {
 	if (process.env.NODE_ENV !== `production`) {
 		return null
-    }
+	}
     
-    const __html = generateScript(pluginOptions.token)
+	const __html = generateScript(pluginOptions.token)
 
 	setHeadComponents([
 		<script
