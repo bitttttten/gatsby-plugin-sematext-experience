@@ -5,9 +5,9 @@ exports.onRouteUpdate = function() {
 		return null
 	}
 
-    const sendPageView = () => {
-        strum(`routeChange`, window.location.href)
-    }
+	const sendPageView = () => {
+		strum(`routeChange`, window.location.href)
+	}
 
 	// run 2 rAF calls to wait for document.title to be updated
 	if (`requestAnimationFrame` in window) {
