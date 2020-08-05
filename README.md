@@ -39,8 +39,8 @@ module.exports = {
 			options: {
 				token: process.env.GATSBY_SEMATEXT_TOKEN,
 			},
-        },
-    ]
+		},
+	]
 }
 ```
 
